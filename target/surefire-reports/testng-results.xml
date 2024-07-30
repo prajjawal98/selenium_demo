@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-30T19:35:16 IST" name="All Test Suite" finished-at="2024-07-30T19:35:19 IST" duration-ms="3364">
+    <groups>
+    </groups>
+    <test started-at="2024-07-30T19:35:16 IST" name="Test1" finished-at="2024-07-30T19:35:19 IST" duration-ms="3364">
+      <class name="Tests.BasicSeleniumTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.BasicSeleniumTest@62833051]" started-at="2024-07-30T19:35:16 IST" name="setup" finished-at="2024-07-30T19:35:16 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogleTitle()[pri:0, instance:Tests.BasicSeleniumTest@62833051]" started-at="2024-07-30T19:35:16 IST" name="testGoogleTitle" finished-at="2024-07-30T19:35:19 IST" duration-ms="2943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.BasicSeleniumTest@62833051]" started-at="2024-07-30T19:35:19 IST" name="tearDown" finished-at="2024-07-30T19:35:19 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.BasicSeleniumTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
